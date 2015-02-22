@@ -1,0 +1,7 @@
+Both contain server and client
+
+Client has the client built inside dist as a jar file
+
+Server has the server built inside dist as a jar file
+
+This is the latest code

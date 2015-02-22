@@ -1,0 +1,5 @@
+miguel, 1234, admin
+charles, 1234, admin
+alec, 1234, admin
+mruth, 4321, user
+jonovan, 4321, user
