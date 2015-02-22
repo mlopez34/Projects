@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE settings [
+  <!ELEMENT settings (options+,replay+)>
+  <!ELEMENT options (player1color,player2color,boardsize)>
+  <!ELEMENT player1color (#PCDATA)>
+  <!ELEMENT player2color (#PCDATA)>
+  <!ELEMENT boardsize (#PCDATA)>
+  <!ELEMENT replay (order,turns)>
+ <!ELEMENT order (#PCDATA)>
+ <!ELEMENT turns (#PCDATA)>
+]>
+<settings>
+  <options>
+    <player1color>Yellow</player1color>
+    <player2color>Blue</player2color>
+    <boardsize>Small</boardsize>
+  </options>
+  <replay>
+    <order>2</order>
+    <turns>4 5 1 4 1 4 1 4 1 </turns>
+  </replay>
+</settings>

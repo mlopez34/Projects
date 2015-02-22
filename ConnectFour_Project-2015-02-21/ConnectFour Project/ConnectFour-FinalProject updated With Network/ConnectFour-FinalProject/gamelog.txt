@@ -1,0 +1,11 @@
+2
+turn 1 Blue 5,4
+turn 2 Yellow 5,5
+turn 3 Blue 5,1
+turn 4 Yellow 4,4
+turn 5 Blue 4,1
+turn 6 Yellow 3,4
+turn 7 Blue 3,1
+turn 8 Yellow 2,4
+turn 9 Blue 2,1
+Blue Wins!
